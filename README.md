@@ -17,5 +17,11 @@ Dengan begitu, pengguna dapat menyalakan dan mematikan lampu secara mudah karena
 Pengguna dapat menggunakan suara untuk menyalakan atau mematikan lampu.
 Misalnya, jika ingin menyalakan lampu, pengguna cukup menepukan tangan, dan lampu akan otomatis menyala. Begitupun ketika inign mematikan lampu.
 
-#Analysis and Discussion
+## Analysis and Discussion
 Team 5
+
+## Reference
+[1] https://youtu.be/hWkLObDoRBA
+[2] Fraden, Jacob., Handbook of Modern Physics : Physics, Design and Apllications3th Edition, J American Institute of Physics, 2004.
+[3] .[2] Albert Malvino, David Bates. Electronic Principles. McGraw-Hill Education
+[4] https://www.academia.edu/35506598/Lampu_Otomatis_dengan_Menggunakan_Sensor_Suara_Tepuk_Tangan
