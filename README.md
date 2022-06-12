@@ -24,7 +24,17 @@ Pengguna dapat menggunakan suara untuk menyalakan atau mematikan lampu.
 Misalnya, jika ingin menyalakan lampu, pengguna cukup menepukan tangan, dan lampu akan otomatis menyala. Begitupun ketika inign mematikan lampu.
 
 ## Analysis and Discussion
-Team 5
+Rencana awal kita memakai komponen seperti yang digunakan sekarang tetapi pada awalnya kita menggunakan sound voice detection Microphone yang biasa seharga 6k awalnya kita coba ga masalah akan tetapi setelahnya kepekaan dari sensor tersebut kurang maksimal sehingga kita memutuskan untuk membeli sound sensor yang beda jenis nya dengan kode fc-04, setelah kita aplikasikan alhamdulilah nya sensor tersebut lebih peka sehingga apa yang kita rencanakan diawal terealisasikan.
+
+Untuk iuran project atau pengeluaran kita menghabis kan sekitar 
+Kurang lebih 30.000, antara lain : 
+
+- sound voice detection Microphone biasa : 6k
+- relay 5v 1 channel : 5.9k
+- kabel jumper : 10k
+- sound sensor FC-04 : 6k
+
+NB : untuk arduino salah satu anggota kelompok ada yg mempunyai jadi tidak membelinya
 
 ## Reference
 - [1] https://youtu.be/hWkLObDoRBA
